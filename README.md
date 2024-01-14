@@ -24,4 +24,3 @@ Here are some ideas to get you started:
 - [minishell](https://github.com/mariiamakura/minishell)
 - [philosophers](https://github.com/mariiamakura/philosophers)
 - [so_long](https://github.com/mariiamakura/so_long)
-

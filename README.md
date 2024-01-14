@@ -3,7 +3,7 @@
 <p>
  <em> Software Engineering Student at 42 Berlin | Passionate about software architecture and cloud computing | Linguist </em>
 </p>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariia-paraskun-57546122b/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
 
 
 

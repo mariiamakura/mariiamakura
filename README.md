@@ -3,7 +3,7 @@
 <p>
  <em> Software Engineering Student at 42 Berlin | Passionate about software architecture and cloud computing | Linguist </em>
 </p>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariia-paraskun-57546122b/)
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariia-paraskun-57546122b/)
 
 
 
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 <h2>🚀 42 School Projects</h2>
-- [miniRT](https://github.com/mariiamakura/miniRT)
-- [minishell](https://github.com/mariiamakura/minishell)
-- [philosophers](https://github.com/mariiamakura/philosophers)
-- [so_long](https://github.com/mariiamakura/so_long)
+- ![miniRT](https://github.com/mariiamakura/miniRT)
+- ![minishell](https://github.com/mariiamakura/minishell)
+- ![philosophers](https://github.com/mariiamakura/philosophers)
+- ![so_long](https://github.com/mariiamakura/so_long)

@@ -3,11 +3,9 @@
 <p>
  <em> Software Engineering Student at 42 Berlin | Passionate about software architecture and cloud computing | Linguist </em>
 </p>
+
+
 [LinkedIn](https://www.linkedin.com/in/mariia-paraskun-57546122b)
-
-
-
-
 
 
 Here are some ideas to get you started:

@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <h2>🚀 42 School Projects</h2>
 
 
-- [WebServer](https://github.com/mariiamakura/webserv)
+- [webserver](https://github.com/mariiamakura/webserv)
 - [miniRT](https://github.com/mariiamakura/miniRT)
 - [minishell](https://github.com/mariiamakura/minishell)
 - [philosophers](https://github.com/mariiamakura/philosophers)

@@ -11,9 +11,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **[WebServer](https://github.com/mariiamakura/webserv)**
-    - HTTP 1.1 webserver in C++ with GET, POST & DELETE methods and CGI to PHP and Python.
-- 🌱 I’m currently learning Java, Docker, Kubernetes
+- 🔭 I’m currently working on **Inception**
+    - Setting up a small infrastructure composed of WordPress with LEMP Stack (Nginx, MariaDB and PHP) using Docker / Docker-Compose
+- 🌱 I’m currently learning Java, Kotlin, Docker, Kubernetes
 - 🔥 Passionate about software architecture, cloud computing and languages
 
 ## 📚 Tech Stack
@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 <h2>🚀 42 School Projects</h2>
 
 
+- [WebServer](https://github.com/mariiamakura/webserv)
 - [miniRT](https://github.com/mariiamakura/miniRT)
 - [minishell](https://github.com/mariiamakura/minishell)
 - [philosophers](https://github.com/mariiamakura/philosophers)

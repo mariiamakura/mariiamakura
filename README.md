@@ -1,7 +1,7 @@
 <h2> Hi there 👋 I'm Mariia </h2>
 
 <p>
- <em> Software Engineering Student at 42 Berlin | Passionate about software architecture and cloud computing | Linguist </em>
+ <em> Software Engineering Student at 42 Network | Passionate about software architecture and cloud computing | Linguist </em>
 </p>
 
 

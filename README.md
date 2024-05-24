@@ -8,7 +8,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariia-paraskun-57546122b)
 
 
-- 🔭 I’m currently working on **FoodyApp**
+- 🔭 I’m currently working on **FoodPacker**
     - Full stack food ordering application build with Java, Spring MVC, React, Tailwind CSS, MySQL.
 - 🌱 I’m currently learning Spring, Kotlin, Kubernetes
 - 🔥 Passionate about software architecture, cloud computing and languages
@@ -32,7 +32,7 @@
 
 <h2>🚀 Projects</h2>
 
-- [foodyApp](https://github.com/mariiamakura/foodyApp.git)
+- [foodyApp](https://github.com/mariiamakura/foodPacker.git)
 - [transcendence](https://github.com/mariiamakura/transcendence)
 - [inception](https://github.com/mariiamakura/inception)
 - [webserver](https://github.com/mariiamakura/webserv)

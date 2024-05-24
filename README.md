@@ -8,9 +8,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariia-paraskun-57546122b)
 
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on **FoodyApp**
     - Full stack food ordering application build with Java, Spring MVC, React, Tailwind CSS, MySQL.
 - 🌱 I’m currently learning Spring, Kotlin, Kubernetes

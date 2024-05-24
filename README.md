@@ -11,8 +11,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **Inception**
-    - Setting up a small infrastructure composed of WordPress with LEMP Stack (Nginx, MariaDB and PHP) using Docker / Docker-Compose
+- 🔭 I’m currently working on **FoodyApp**
+    - Full stack food ordering application build with Java, Spring MVC, React, Tailwind CSS, MySQL.
 - 🌱 I’m currently learning Spring, Kotlin, Kubernetes
 - 🔥 Passionate about software architecture, cloud computing and languages
 

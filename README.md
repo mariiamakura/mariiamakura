@@ -30,11 +30,10 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 
-<h2>🚀 42 School Projects</h2>
+<h2>🚀 Projects</h2>
 
-
+- [foodyApp](https://github.com/mariiamakura/foodyApp.git)
+- [transcendence](https://github.com/mariiamakura/transcendence)
+- [inception](https://github.com/mariiamakura/inception)
 - [webserver](https://github.com/mariiamakura/webserv)
-- [miniRT](https://github.com/mariiamakura/miniRT)
-- [minishell](https://github.com/mariiamakura/minishell)
-- [philosophers](https://github.com/mariiamakura/philosophers)
 - [so_long](https://github.com/mariiamakura/so_long)
